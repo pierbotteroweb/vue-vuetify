@@ -1,19 +1,15 @@
 # vue-vuetify
 
-## Project setup
-```
-npm install
-```
+This app uses vuetify 2.6 over Node 14.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Vuetify v2 official documentation
+https://v2.vuetifyjs.com/en/
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Wireframe: https://v2.vuetifyjs.com/en/examples/wireframes/base/
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+UI components:
+
+Navigation drawers: https://v2.vuetifyjs.com/en/components/navigation-drawers/
+
+
+
